@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     alt="adam-pw" 
     bg_color=#808080/></p>
 <br>
-<i>A Little Joke at the End!</i>
+<i>A Little Joke at the End!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 <!--
