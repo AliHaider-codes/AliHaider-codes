@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" /> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" />
+
+</br>
+</br>
+<i>Random joke for you! (click here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
