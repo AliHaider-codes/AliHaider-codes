@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-<i>Random joke for you! (click here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<i>Random joke for you!</i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 <!--
 - 📫 How to reach me: ...
