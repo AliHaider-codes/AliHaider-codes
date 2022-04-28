@@ -1,4 +1,4 @@
-### 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Ali!;I'm+a+Computer+Scientist...;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Ali!;I'm+a+Computer+Scientist...;)](https://git.io/typing-svg)
 
 <!--
 **AliHaider-codes/AliHaider-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
