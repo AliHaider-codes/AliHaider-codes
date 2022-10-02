@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Design, Object-oriented programming, Concurrent programming and distributed algorithms
+- 🔭 I’m currently working on cloud computing, machine learning, distributed computing, developing high-quality software
 <!--
 - 🌱 I’m currently learning Python, Node.js, Svelte, Material Design
 - 👯 I’m looking to collaborate on ...
